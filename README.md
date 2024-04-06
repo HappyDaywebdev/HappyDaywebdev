@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Maglente!
- Studied BS - Information Technology Major in Network Administrator<br>
+ Studied in BS - Information Technology Major in Network Administrator<br>
 🌱Currently learning HTML, CSS,  AND JAVASCRIPT<br>
 
 
